@@ -1,4 +1,7 @@
-rkdown script using python.
+#!/usr/bin/python3
+
+"""
+Markdown script using python.
 """
 import sys
 import os.path
